@@ -1,0 +1,25 @@
+{
+  "name": "Eqo",
+  "version": "0.0.1",
+  "description": "A convenient utility library",
+  "main": "eqo.js",
+  "scripts": {
+    "test": "node eqo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pixeladed/eqo"
+  },
+  "keywords": [
+    "utility",
+    "data",
+    "variable",
+    "iterating"
+  ],
+  "author": "Pixeladed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pixeladed/eqo/issues"
+  },
+  "homepage": "https://github.com/Pixeladed/eqo"
+}
